@@ -1,9 +1,9 @@
-# Hi, my name is Cristian Moreno.
+# Hi, my name is Frank Betrancur a.k.a Panda 🐼.
 
-FullStack Javascript Developer and Community builder 👨🏻‍💻🤝 👨🏻‍🏫
+Backend Developer and Community Enthusiastic 👨🏻‍💻🤝 👨🏻‍🏫
 
-Producer [@commitfm](https://twitter.com/commitfm) 🎙📻
+Frontend Padawan 🤓👨🏻‍💻
 
-Co-Organize of [@MedellinJS](https://twitter.com/medellinjs) [@avanet](https://twitter.com/avanet)
+Co-Organize of [@MedellinJS](https://twitter.com/medellinjs), Member of [@avanet](https://twitter.com/avanet)
 
-Javascript Developer Avocado 🥑
+Mentor at [@SheCodesAngular](https://twitter.com/SheCodesAngular) and [@AngularMedellin](https://twitter.com/AngularMedellin)
