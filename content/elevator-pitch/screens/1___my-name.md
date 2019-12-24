@@ -1,4 +1,4 @@
-# Hi, my name is Frank Betrancur a.k.a Panda 🐼.
+# Hi, my name is Frank Betancur a.k.a Panda 🐼.
 
 Backend Developer and Community Enthusiastic 👨🏻‍💻🤝 👨🏻‍🏫
 
